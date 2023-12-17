@@ -1,0 +1,8 @@
+.navbar{
+    width:15%;
+}
+
+.button:hover{
+    background:rgb(47, 0, 255);
+    color:white;
+}
